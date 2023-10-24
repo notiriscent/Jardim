@@ -1,0 +1,212 @@
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0 21.3M    0  191k    0     0   257k      0  0:01:25 --:--:--  0:01:25  256k100 21.3M  100 21.3M    0     0  13.0M      0  0:00:01  0:00:01 --:--:-- 13.0M
+npm WARN deprecated node-pre-gyp@0.17.0: Please upgrade to @mapbox/node-pre-gyp: the non-scoped node-pre-gyp package is deprecated and only the @mapbox scoped package will recieve updates in the future
+
+added 67 packages, and audited 68 packages in 2s
+
+3 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+npm notice 
+npm notice New major version of npm available! 8.15.0 -> 10.1.0
+npm notice Changelog: <https://github.com/npm/cli/releases/tag/v10.1.0>
+npm notice Run `npm install -g npm@10.1.0` to update!
+npm notice 
+
+up to date, audited 53 packages in 913ms
+
+1 package is looking for funding
+  run `npm fund` for details
+
+2 moderate severity vulnerabilities
+
+To address all issues, run:
+  npm audit fix
+
+Run `npm audit` for details.
+
+> discordbot-template@3.3.2 start
+> node bot.js
+
+Started refreshing application (/) commands.
+Connected to MongoDB
+Successfully reloaded application (/) commands.
+Ready! Logged in as Jardim#4493
+bricky3283
+New user created: {
+  userId: '593915814025887755',
+  username: 'bricky3283',
+  garden: {
+    name: 'dickballs',
+    creds: 30,
+    level: 1,
+    xpNeeded: 100,
+    remainingXP: 0,
+    plants: { plant: [Array] },
+    inventory: []
+  },
+  _id: new ObjectId("6516ed6d229ee897a6955046"),
+  __v: 0
+}
+Error searching for user: Error: User validation failed: garden.remainingXP: Cast to Number failed for value "NaN" (type number) at path "garden.remainingXP"
+    at ValidationError.inspect (/home/minecraft/multicraft/servers/server568288/node_modules/mongoose/lib/error/validation.js:50:26)
+    at formatValue (node:internal/util/inspect:790:19)
+    at inspect (node:internal/util/inspect:350:10)
+    at formatWithOptionsInternal (node:internal/util/inspect:2241:40)
+    at formatWithOptions (node:internal/util/inspect:2103:10)
+    at console.value (node:internal/console/constructor:348:14)
+    at console.warn (node:internal/console/constructor:381:61)
+    at /home/minecraft/multicraft/servers/server568288/interactions/slash/misc/harvest.js:157:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  errors: {
+    'garden.remainingXP': CastError: Cast to Number failed for value "NaN" (type number) at path "garden.remainingXP"
+        at SchemaNumber.cast (/home/minecraft/multicraft/servers/server568288/node_modules/mongoose/lib/schema/number.js:380:11)
+        at SchemaNumber.SchemaType.applySetters (/home/minecraft/multicraft/servers/server568288/node_modules/mongoose/lib/schematype.js:1220:12)
+        at model.$set (/home/minecraft/multicraft/servers/server568288/node_modules/mongoose/lib/document.js:1411:22)
+        at Document.set [as remainingXP] (/home/minecraft/multicraft/servers/server568288/node_modules/mongoose/lib/helpers/document/compile.js:205:19)
+        at /home/minecraft/multicraft/servers/server568288/interactions/slash/misc/harvest.js:114:36
+        at runMicrotasks (<anonymous>)
+        at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+      stringValue: '"NaN"',
+      messageFormat: undefined,
+      kind: 'Number',
+      value: NaN,
+      path: 'garden.remainingXP',
+      reason: AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+      
+        assert.ok(!isNaN(val))
+      
+          at castNumber (/home/minecraft/multicraft/servers/server568288/node_modules/mongoose/lib/cast/number.js:27:10)
+          at SchemaNumber.cast (/home/minecraft/multicraft/servers/server568288/node_modules/mongoose/lib/schema/number.js:378:12)
+          at SchemaNumber.SchemaType.applySetters (/home/minecraft/multicraft/servers/server568288/node_modules/mongoose/lib/schematype.js:1220:12)
+          at model.$set (/home/minecraft/multicraft/servers/server568288/node_modules/mongoose/lib/document.js:1411:22)
+          at Document.set [as remainingXP] (/home/minecraft/multicraft/servers/server568288/node_modules/mongoose/lib/helpers/document/compile.js:205:19)
+          at /home/minecraft/multicraft/servers/server568288/interactions/slash/misc/harvest.js:114:36
+          at runMicrotasks (<anonymous>)
+          at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+        generatedMessage: true,
+        code: 'ERR_ASSERTION',
+        actual: false,
+        expected: true,
+        operator: '=='
+      },
+      valueType: 'number'
+    }
+  },
+  _message: 'User validation failed'
+}
+Error searching for user: Error: User validation failed: garden.remainingXP: Cast to Number failed for value "NaN" (type number) at path "garden.remainingXP"
+    at ValidationError.inspect (/home/minecraft/multicraft/servers/server568288/node_modules/mongoose/lib/error/validation.js:50:26)
+    at formatValue (node:internal/util/inspect:790:19)
+    at inspect (node:internal/util/inspect:350:10)
+    at formatWithOptionsInternal (node:internal/util/inspect:2241:40)
+    at formatWithOptions (node:internal/util/inspect:2103:10)
+    at console.value (node:internal/console/constructor:348:14)
+    at console.warn (node:internal/console/constructor:381:61)
+    at /home/minecraft/multicraft/servers/server568288/interactions/slash/misc/harvest.js:157:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  errors: {
+    'garden.remainingXP': CastError: Cast to Number failed for value "NaN" (type number) at path "garden.remainingXP"
+        at SchemaNumber.cast (/home/minecraft/multicraft/servers/server568288/node_modules/mongoose/lib/schema/number.js:380:11)
+        at SchemaNumber.SchemaType.applySetters (/home/minecraft/multicraft/servers/server568288/node_modules/mongoose/lib/schematype.js:1220:12)
+        at model.$set (/home/minecraft/multicraft/servers/server568288/node_modules/mongoose/lib/document.js:1411:22)
+        at Document.set [as remainingXP] (/home/minecraft/multicraft/servers/server568288/node_modules/mongoose/lib/helpers/document/compile.js:205:19)
+        at /home/minecraft/multicraft/servers/server568288/interactions/slash/misc/harvest.js:114:36
+        at runMicrotasks (<anonymous>)
+        at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+      stringValue: '"NaN"',
+      messageFormat: undefined,
+      kind: 'Number',
+      value: NaN,
+      path: 'garden.remainingXP',
+      reason: AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+      
+        assert.ok(!isNaN(val))
+      
+          at castNumber (/home/minecraft/multicraft/servers/server568288/node_modules/mongoose/lib/cast/number.js:27:10)
+          at SchemaNumber.cast (/home/minecraft/multicraft/servers/server568288/node_modules/mongoose/lib/schema/number.js:378:12)
+          at SchemaNumber.SchemaType.applySetters (/home/minecraft/multicraft/servers/server568288/node_modules/mongoose/lib/schematype.js:1220:12)
+          at model.$set (/home/minecraft/multicraft/servers/server568288/node_modules/mongoose/lib/document.js:1411:22)
+          at Document.set [as remainingXP] (/home/minecraft/multicraft/servers/server568288/node_modules/mongoose/lib/helpers/document/compile.js:205:19)
+          at /home/minecraft/multicraft/servers/server568288/interactions/slash/misc/harvest.js:114:36
+          at runMicrotasks (<anonymous>)
+          at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+        generatedMessage: true,
+        code: 'ERR_ASSERTION',
+        actual: false,
+        expected: true,
+        operator: '=='
+      },
+      valueType: 'number'
+    }
+  },
+  _message: 'User validation failed'
+}
+Error searching for user: Error: User validation failed: garden.remainingXP: Cast to Number failed for value "NaN" (type number) at path "garden.remainingXP"
+    at ValidationError.inspect (/home/minecraft/multicraft/servers/server568288/node_modules/mongoose/lib/error/validation.js:50:26)
+    at formatValue (node:internal/util/inspect:790:19)
+    at inspect (node:internal/util/inspect:350:10)
+    at formatWithOptionsInternal (node:internal/util/inspect:2241:40)
+    at formatWithOptions (node:internal/util/inspect:2103:10)
+    at console.value (node:internal/console/constructor:348:14)
+    at console.warn (node:internal/console/constructor:381:61)
+    at /home/minecraft/multicraft/servers/server568288/interactions/slash/misc/harvest.js:157:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+  errors: {
+    'garden.remainingXP': CastError: Cast to Number failed for value "NaN" (type number) at path "garden.remainingXP"
+        at SchemaNumber.cast (/home/minecraft/multicraft/servers/server568288/node_modules/mongoose/lib/schema/number.js:380:11)
+        at SchemaNumber.SchemaType.applySetters (/home/minecraft/multicraft/servers/server568288/node_modules/mongoose/lib/schematype.js:1220:12)
+        at model.$set (/home/minecraft/multicraft/servers/server568288/node_modules/mongoose/lib/document.js:1411:22)
+        at Document.set [as remainingXP] (/home/minecraft/multicraft/servers/server568288/node_modules/mongoose/lib/helpers/document/compile.js:205:19)
+        at /home/minecraft/multicraft/servers/server568288/interactions/slash/misc/harvest.js:114:36
+        at runMicrotasks (<anonymous>)
+        at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+      stringValue: '"NaN"',
+      messageFormat: undefined,
+      kind: 'Number',
+      value: NaN,
+      path: 'garden.remainingXP',
+      reason: AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+      
+        assert.ok(!isNaN(val))
+      
+          at castNumber (/home/minecraft/multicraft/servers/server568288/node_modules/mongoose/lib/cast/number.js:27:10)
+          at SchemaNumber.cast (/home/minecraft/multicraft/servers/server568288/node_modules/mongoose/lib/schema/number.js:378:12)
+          at SchemaNumber.SchemaType.applySetters (/home/minecraft/multicraft/servers/server568288/node_modules/mongoose/lib/schematype.js:1220:12)
+          at model.$set (/home/minecraft/multicraft/servers/server568288/node_modules/mongoose/lib/document.js:1411:22)
+          at Document.set [as remainingXP] (/home/minecraft/multicraft/servers/server568288/node_modules/mongoose/lib/helpers/document/compile.js:205:19)
+          at /home/minecraft/multicraft/servers/server568288/interactions/slash/misc/harvest.js:114:36
+          at runMicrotasks (<anonymous>)
+          at processTicksAndRejections (node:internal/process/task_queues:96:5) {
+        generatedMessage: true,
+        code: 'ERR_ASSERTION',
+        actual: false,
+        expected: true,
+        operator: '=='
+      },
+      valueType: 'number'
+    }
+  },
+  _message: 'User validation failed'
+}
+eoms
+New user created: {
+  userId: '684591246144176189',
+  username: 'eoms',
+  garden: {
+    name: 'Fortnitelandia',
+    creds: 30,
+    level: 1,
+    xpNeeded: 100,
+    remainingXP: 0,
+    plants: { plant: [Array] },
+    inventory: []
+  },
+  _id: new ObjectId("651762f7229ee897a695acfb"),
+  __v: 0
+}

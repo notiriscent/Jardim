@@ -1,0 +1,2734 @@
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0 21.3M    0 16366    0     0  34167      0  0:10:56 --:--:--  0:10:56 34095 71 21.3M   71 15.3M    0     0  10.5M      0  0:00:02  0:00:01  0:00:01 10.5M100 21.3M  100 21.3M    0     0  12.9M      0  0:00:01  0:00:01 --:--:-- 12.9M
+npm WARN deprecated node-pre-gyp@0.17.0: Please upgrade to @mapbox/node-pre-gyp: the non-scoped node-pre-gyp package is deprecated and only the @mapbox scoped package will recieve updates in the future
+
+added 67 packages, and audited 68 packages in 2s
+
+3 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+npm notice 
+npm notice New major version of npm available! 8.15.0 -> 10.2.0
+npm notice Changelog: <https://github.com/npm/cli/releases/tag/v10.2.0>
+npm notice Run `npm install -g npm@10.2.0` to update!
+npm notice 
+
+up to date, audited 53 packages in 880ms
+
+1 package is looking for funding
+  run `npm fund` for details
+
+2 moderate severity vulnerabilities
+
+To address all issues, run:
+  npm audit fix
+
+Run `npm audit` for details.
+
+> discordbot-template@3.3.2 start
+> node bot.js
+
+Started refreshing application (/) commands.
+Connected to MongoDB
+Successfully reloaded application (/) commands.
+Ready! Logged in as Jardim#4493
+plants: {
+  name: 'Pineapple',
+  emoji: '🍍',
+  rarityEmoji: '<:bluecircle:1150567495435030528>',
+  growth: 0,
+  rarity: 3,
+  _id: new ObjectId("6518ee1ae84efc03dc6809bc")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a28")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a29")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2a")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2b")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2c")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2d")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2e")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2f")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a30")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680aff")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b00")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b01")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b02")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b03")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b04")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b05")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b06")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee60e84efc03dc680b83")
+}
+plant: {
+  name: 'Pineapple',
+  emoji: '🍍',
+  rarityEmoji: '<:bluecircle:1150567495435030528>',
+  growth: 0,
+  rarity: 3,
+  _id: new ObjectId("6518ee1ae84efc03dc6809bc")
+}
+plants: {
+  name: 'Pineapple',
+  emoji: '🍍',
+  rarityEmoji: '<:bluecircle:1150567495435030528>',
+  growth: 0,
+  rarity: 3,
+  _id: new ObjectId("6518ee1ae84efc03dc6809bc")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a28")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a29")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2a")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2b")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2c")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2d")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2e")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2f")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a30")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680aff")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b00")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b01")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b02")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b03")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b04")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b05")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b06")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee60e84efc03dc680b83")
+}
+plant: {
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a28")
+}
+plants: {
+  name: 'Pineapple',
+  emoji: '🍍',
+  rarityEmoji: '<:bluecircle:1150567495435030528>',
+  growth: 0,
+  rarity: 3,
+  _id: new ObjectId("6518ee1ae84efc03dc6809bc")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a28")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a29")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2a")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2b")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2c")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2d")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2e")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2f")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a30")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680aff")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b00")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b01")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b02")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b03")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b04")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b05")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b06")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee60e84efc03dc680b83")
+}
+plant: {
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a29")
+}
+plants: {
+  name: 'Pineapple',
+  emoji: '🍍',
+  rarityEmoji: '<:bluecircle:1150567495435030528>',
+  growth: 0,
+  rarity: 3,
+  _id: new ObjectId("6518ee1ae84efc03dc6809bc")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a28")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a29")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2a")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2b")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2c")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2d")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2e")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2f")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a30")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680aff")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b00")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b01")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b02")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b03")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b04")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b05")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b06")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee60e84efc03dc680b83")
+}
+plant: {
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2a")
+}
+plants: {
+  name: 'Pineapple',
+  emoji: '🍍',
+  rarityEmoji: '<:bluecircle:1150567495435030528>',
+  growth: 0,
+  rarity: 3,
+  _id: new ObjectId("6518ee1ae84efc03dc6809bc")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a28")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a29")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2a")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2b")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2c")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2d")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2e")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2f")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a30")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680aff")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b00")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b01")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b02")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b03")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b04")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b05")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b06")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee60e84efc03dc680b83")
+}
+plant: {
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2b")
+}
+plants: {
+  name: 'Pineapple',
+  emoji: '🍍',
+  rarityEmoji: '<:bluecircle:1150567495435030528>',
+  growth: 0,
+  rarity: 3,
+  _id: new ObjectId("6518ee1ae84efc03dc6809bc")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a28")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a29")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2a")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2b")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2c")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2d")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2e")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2f")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a30")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680aff")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b00")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b01")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b02")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b03")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b04")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b05")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b06")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee60e84efc03dc680b83")
+}
+plant: {
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2c")
+}
+plants: {
+  name: 'Pineapple',
+  emoji: '🍍',
+  rarityEmoji: '<:bluecircle:1150567495435030528>',
+  growth: 0,
+  rarity: 3,
+  _id: new ObjectId("6518ee1ae84efc03dc6809bc")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a28")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a29")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2a")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2b")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2c")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2d")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2e")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2f")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a30")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680aff")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b00")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b01")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b02")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b03")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b04")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b05")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b06")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee60e84efc03dc680b83")
+}
+plant: {
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2d")
+}
+plants: {
+  name: 'Pineapple',
+  emoji: '🍍',
+  rarityEmoji: '<:bluecircle:1150567495435030528>',
+  growth: 0,
+  rarity: 3,
+  _id: new ObjectId("6518ee1ae84efc03dc6809bc")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a28")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a29")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2a")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2b")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2c")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2d")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2e")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2f")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a30")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680aff")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b00")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b01")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b02")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b03")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b04")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b05")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b06")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee60e84efc03dc680b83")
+}
+plant: {
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2e")
+}
+plants: {
+  name: 'Pineapple',
+  emoji: '🍍',
+  rarityEmoji: '<:bluecircle:1150567495435030528>',
+  growth: 0,
+  rarity: 3,
+  _id: new ObjectId("6518ee1ae84efc03dc6809bc")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a28")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a29")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2a")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2b")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2c")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2d")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2e")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2f")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a30")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680aff")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b00")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b01")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b02")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b03")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b04")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b05")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b06")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee60e84efc03dc680b83")
+}
+plant: {
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2f")
+}
+plants: {
+  name: 'Pineapple',
+  emoji: '🍍',
+  rarityEmoji: '<:bluecircle:1150567495435030528>',
+  growth: 0,
+  rarity: 3,
+  _id: new ObjectId("6518ee1ae84efc03dc6809bc")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a28")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a29")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2a")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2b")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2c")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2d")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2e")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2f")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a30")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680aff")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b00")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b01")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b02")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b03")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b04")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b05")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b06")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee60e84efc03dc680b83")
+}
+plant: {
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a30")
+}
+plants: {
+  name: 'Pineapple',
+  emoji: '🍍',
+  rarityEmoji: '<:bluecircle:1150567495435030528>',
+  growth: 0,
+  rarity: 3,
+  _id: new ObjectId("6518ee1ae84efc03dc6809bc")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a28")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a29")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2a")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2b")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2c")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2d")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2e")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2f")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a30")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680aff")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b00")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b01")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b02")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b03")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b04")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b05")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b06")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee60e84efc03dc680b83")
+}
+plant: {
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680aff")
+}
+plants: {
+  name: 'Pineapple',
+  emoji: '🍍',
+  rarityEmoji: '<:bluecircle:1150567495435030528>',
+  growth: 0,
+  rarity: 3,
+  _id: new ObjectId("6518ee1ae84efc03dc6809bc")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a28")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a29")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2a")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2b")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2c")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2d")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2e")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2f")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a30")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680aff")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b00")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b01")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b02")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b03")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b04")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b05")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b06")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee60e84efc03dc680b83")
+}
+plant: {
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b00")
+}
+plants: {
+  name: 'Pineapple',
+  emoji: '🍍',
+  rarityEmoji: '<:bluecircle:1150567495435030528>',
+  growth: 0,
+  rarity: 3,
+  _id: new ObjectId("6518ee1ae84efc03dc6809bc")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a28")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a29")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2a")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2b")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2c")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2d")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2e")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2f")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a30")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680aff")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b00")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b01")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b02")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b03")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b04")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b05")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b06")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee60e84efc03dc680b83")
+}
+plant: {
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b01")
+}
+plants: {
+  name: 'Pineapple',
+  emoji: '🍍',
+  rarityEmoji: '<:bluecircle:1150567495435030528>',
+  growth: 0,
+  rarity: 3,
+  _id: new ObjectId("6518ee1ae84efc03dc6809bc")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a28")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a29")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2a")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2b")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2c")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2d")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2e")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2f")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a30")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680aff")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b00")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b01")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b02")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b03")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b04")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b05")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b06")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee60e84efc03dc680b83")
+}
+plant: {
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b02")
+}
+plants: {
+  name: 'Pineapple',
+  emoji: '🍍',
+  rarityEmoji: '<:bluecircle:1150567495435030528>',
+  growth: 0,
+  rarity: 3,
+  _id: new ObjectId("6518ee1ae84efc03dc6809bc")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a28")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a29")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2a")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2b")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2c")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2d")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2e")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2f")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a30")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680aff")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b00")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b01")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b02")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b03")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b04")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b05")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b06")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee60e84efc03dc680b83")
+}
+plant: {
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b03")
+}
+plants: {
+  name: 'Pineapple',
+  emoji: '🍍',
+  rarityEmoji: '<:bluecircle:1150567495435030528>',
+  growth: 0,
+  rarity: 3,
+  _id: new ObjectId("6518ee1ae84efc03dc6809bc")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a28")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a29")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2a")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2b")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2c")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2d")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2e")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2f")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a30")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680aff")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b00")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b01")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b02")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b03")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b04")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b05")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b06")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee60e84efc03dc680b83")
+}
+plant: {
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b04")
+}
+plants: {
+  name: 'Pineapple',
+  emoji: '🍍',
+  rarityEmoji: '<:bluecircle:1150567495435030528>',
+  growth: 0,
+  rarity: 3,
+  _id: new ObjectId("6518ee1ae84efc03dc6809bc")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a28")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a29")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2a")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2b")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2c")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2d")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2e")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2f")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a30")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680aff")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b00")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b01")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b02")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b03")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b04")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b05")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b06")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee60e84efc03dc680b83")
+}
+plant: {
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b05")
+}
+plants: {
+  name: 'Pineapple',
+  emoji: '🍍',
+  rarityEmoji: '<:bluecircle:1150567495435030528>',
+  growth: 0,
+  rarity: 3,
+  _id: new ObjectId("6518ee1ae84efc03dc6809bc")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a28")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a29")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2a")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2b")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2c")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2d")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2e")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2f")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a30")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680aff")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b00")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b01")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b02")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b03")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b04")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b05")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b06")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee60e84efc03dc680b83")
+}
+plant: {
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b06")
+}
+plants: {
+  name: 'Pineapple',
+  emoji: '🍍',
+  rarityEmoji: '<:bluecircle:1150567495435030528>',
+  growth: 0,
+  rarity: 3,
+  _id: new ObjectId("6518ee1ae84efc03dc6809bc")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a28")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a29")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2a")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2b")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2c")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2d")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2e")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a2f")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:graycircle:1150567437251649576>',
+  growth: 0,
+  rarity: 1,
+  _id: new ObjectId("6518ee32e84efc03dc680a30")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680aff")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b00")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b01")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b02")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b03")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b04")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b05")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee45e84efc03dc680b06")
+},{
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee60e84efc03dc680b83")
+}
+plant: {
+  name: 'Watermelon',
+  emoji: '🍉',
+  rarityEmoji: '<:greencircle:1150567466943123486>',
+  growth: 0,
+  rarity: 2,
+  _id: new ObjectId("6518ee60e84efc03dc680b83")
+}

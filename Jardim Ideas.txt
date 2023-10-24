@@ -1,0 +1,17 @@
+/rename,
+/upgrade,
+    upgrade plant rarities to gain more stuff
+
+/rebirth,
+/daily,
+/trade,
+/gift,
+/updates
+
+multiple gardens, earned by rebirth level,
+medals,
+trading and gifting,
+spread out uncommon-epic,
+devine qualifier, radiant qualifier,
+3 minute growth after /water,
+custom emojis,
