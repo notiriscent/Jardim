@@ -1,10 +1,11 @@
 {
   "scripts": {
     "start": "node | pino-pretty -c",
-    "nodemon": "nodemon | pino-pretty -c"
+    "dev": "nodemon | pino-pretty -c"
   },
   "dependencies": {
     "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1",
     "mysql": "^2.18.1",
     "pino": "^8.16.1",
     "pino-pretty": "^10.2.3"
