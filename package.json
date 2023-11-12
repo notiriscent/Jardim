@@ -1,7 +1,8 @@
 {
   "scripts": {
     "start": "node | pino-pretty -c",
-    "dev": "nodemon | pino-pretty -c"
+    "dev": "nodemon | pino-pretty -c",
+    "deploy": "node ./deploy-commands.js | pino-pretty"
   },
   "dependencies": {
     "discord.js": "^14.11.0",
