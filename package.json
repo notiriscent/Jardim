@@ -1,45 +1,16 @@
 {
-  "name": "discordbot-template",
-  "version": "3.3.2",
-  "description": "A modified template based on discordjs.guide to create your own discord-js based bot!",
-  "funding": "https://ko-fi.com/namanvrati",
-  "types": "./typings.d.ts",
-  "main": "bot.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node | pino-pretty -c",
+    "nodemon": "nodemon | pino-pretty -c"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/NamVr/DiscordBot-Template.git"
-  },
-  "keywords": [
-    "discord-js"
-  ],
-  "author": {
-    "name": "Naman Vrati",
-    "url": "https://github.com/NamVr",
-    "email": "info@namanvrati.cf"
-  },
-  "contributors": [
-    {
-      "name": "Krish Garg",
-      "url": "https://github.com/KrishGarg"
-    },
-    {
-      "name": "Thomas Fournier",
-      "email": "thomas@artivain.com",
-      "url": "https://github.com/GoudronViande24"
-    }
-  ],
-  "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/NamVr/DiscordBot-Template/issues"
-  },
-  "homepage": "https://github.com/NamVr/DiscordBot-Template#readme",
   "dependencies": {
-    "discord-api-types": "^0.37.43",
     "discord.js": "^14.11.0",
-    "mongoose": "^7.4.4"
+    "mysql": "^2.18.1",
+    "pino": "^8.16.1",
+    "pino-pretty": "^10.2.3"
   },
-  "nodeVersion": "16.17.0"
+  "devDependencies": {
+    "eslint": "^8.53.0",
+    "nodemon": "^3.0.1"
+  }
 }
